@@ -19,15 +19,11 @@ SkyInsight provides an interactive analytics dashboard that enables users to exp
 
 ---
 
-# Project Demo
+## Project Demo
 
-A short walkthrough demonstrating the interactive Power BI dashboard, page navigation, filters, KPIs, and business insights.
+A short walkthrough demonstrating the interactive Power BI dashboard.
 
-**Watch Demo**
-
-```
-Demo/SkyInsight_Demo.mp4
-```
+**[Watch Demo Video](Demo/SkyInsight_Demo.mp4)**
 
 ---
 
