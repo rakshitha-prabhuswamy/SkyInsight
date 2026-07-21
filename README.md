@@ -124,9 +124,7 @@ Features include:
 
 Power BI File:
 
-```
-PowerBI/SkyInsight_Airline_Analytics.pbix
-```
+**[Download Power BI Dashboard](PowerBI/SkyInsight_Airline_Analytics.pbix)**
 
 ---
 
